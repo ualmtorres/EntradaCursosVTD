@@ -1,4 +1,4 @@
-# Entrada Cursos Vicerrectorado Transformación Digital
+# Entrada Cursos Vicerrectorado Transformación Digital
 
 ## Instrucciones para entrada
 
